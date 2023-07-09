@@ -1,6 +1,6 @@
 # shape-of-code
 
-~Generate `png` out of your source code file~
+Generate `png` out of your source code file. Why? For fun - I guess.
 
 ## Dependencies
 
