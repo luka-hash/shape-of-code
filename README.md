@@ -14,7 +14,7 @@ Generate `png` out of your source code file. Why? For fun - I guess.
 git clone github.com/luka-hash/shape-of-code
 make # this will just build the executable
 sudo make install PREFIX=/usr/local # this will install it globally
-make install PREFIX="$HOME"/.local # will install it locally
+make install PREFIX="$HOME"/.local/bin # will install it locally
 ```
 
 Also, you can set `DESTDIR` to install it into a different system root, e.g. use
